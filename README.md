@@ -25,4 +25,6 @@ Primera iteración:
 
 ✅ Haz que la búsqueda se haga automáticamente al escribir.
 
-✅ Evita que se haga la búsqueda continuamente al escribir (debounce)
+✅ Evita que se haga la búsqueda continuamente al escribir (debounce)   
+(https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify]  
+Deploy:https://super-crostata-0a39be.netlify.app/
